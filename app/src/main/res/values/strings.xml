@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Activity_save_pref</string>
+    <string name="pref_hint">write something</string>
+    <string name="pref1_text">setting 1:</string>
+    <string name="pref2_text">setting 2:</string>
+    <string name="pref3_text">setting 3:</string>
+    <string name="pref4_text">setting 4:</string>
+    <string name="check_box1">check box 1</string>
+    <string name="check_box2">check box 2</string>
+    <string name="check_box3">check box 3</string>
+    <string name="check_box4">check box 4</string>
+    <string name="radio_button1">radio button 1</string>
+    <string name="radio_button2">radio button 2</string>
+    <string name="radio_button3">radio button 3</string>
+    <string name="radio_button4">radio button 4</string>
+    <string name="start_activity_b">Start another activity</string>
+</resources>
